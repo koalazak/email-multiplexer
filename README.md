@@ -13,7 +13,11 @@ The dots and capitalization can help make the Gmail address easier to read for h
 
 Obtaining all your variants you can create X accounts in other services using a unique verified gmail account. 
 
-The longer the address, the more variants you can get.
+The longer the address, the more variants you can get:
+
+[![](https://latex.codecogs.com/gif.latex?%5Cinline%20%5Cdpi%7B120%7D%20Variants%3D2%5E%7Blength-1%7D)](https://latex.codecogs.com/gif.latex?%5Cinline%20%5Cdpi%7B120%7D%20Variants%3D2%5E%7Blength-1%7D)
+
+With an email like `LeonardodaVinci@gmail.com` (15 characters of length) you get 16384 email variants.
 
 # Install
 
