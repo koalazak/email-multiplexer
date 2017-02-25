@@ -1,6 +1,6 @@
 {
   "name": "email-multiplexer",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Gets all variants of an email address filling with dots",
   "main": "index.js",
   "scripts": {
